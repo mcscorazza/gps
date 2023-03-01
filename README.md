@@ -18,3 +18,9 @@ function soma(a+b) {
 }
 
 ```
+
+Lista:
+
+- [ ] lista 1
+- [ ] lista 2
+- [X] lista 3
