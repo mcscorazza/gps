@@ -10,3 +10,11 @@ inserindo uma lista ordenada:
     3. a3
 2. b
 3. c
+
+``` javascript
+
+function soma(a+b) {
+    return a + b;
+}
+
+```
